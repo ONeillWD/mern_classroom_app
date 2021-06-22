@@ -81,6 +81,7 @@ const remove = async (req, res) => {
     })
   }
 }
+
 const isEducator = (req, res, next) => {
   const isEducator = req.profile && req.profile.educator
   if (!isEducator) {

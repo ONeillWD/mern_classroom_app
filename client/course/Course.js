@@ -78,7 +78,7 @@ const useStyles = makeStyles(theme => ({
   statSpan: {
     margin: '7px 10px 0 10px',
     alignItems: 'center',
-    color: '#616161',
+    color: '#3BB273',
     display: 'inline-flex',
     '& svg': {
       marginRight: 10,

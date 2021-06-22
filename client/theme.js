@@ -1,6 +1,6 @@
 import { createMuiTheme } from '@material-ui/core/styles'
 import { pink } from '@material-ui/core/colors'
-
+{/**Color pallet */}
 const theme = createMuiTheme({
     typography: {
       useNextVariants: true,
@@ -8,7 +8,7 @@ const theme = createMuiTheme({
     palette: {
       primary: {
       light: '#5c67a3',
-      main: '#3f4771',
+      main: '#E1BC29',
       dark: '#2e355b',
       contrastText: '#fff',
     },
